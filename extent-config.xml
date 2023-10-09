@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<extentreports>
+    <configuration>
+
+        <documentTitle>My Automation Report</documentTitle>
+        <reportName>Functional Test Report</reportName>
+        <theme>standard</theme>
+        <encoding>UTF-8</encoding>
+        <protocol>http</protocol>
+        <timestampFormat>yyyy-MM-dd HH:mm:ss a</timestampFormat>
+        <documentEncoding>UTF-8</documentEncoding>
+
+    </configuration>
+</extentreports>
